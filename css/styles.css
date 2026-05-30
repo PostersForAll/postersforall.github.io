@@ -83,6 +83,10 @@ p {
     min-width: 300px;
     max-width: 65%; 
 }
+
+.centered-text {
+	text-align: center;
+}
 /* ANNOUNCEMENT BOARD */
 .announcements {
     max-width: 1200px; 
